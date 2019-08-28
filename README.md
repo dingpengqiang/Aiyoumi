@@ -1,6 +1,6 @@
 # Aiumi
 对SpringBoot的学习使用，一一记录下来
-
+  ![Alt text](https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png)
 一：分模块创建
 
     1.common模块
@@ -16,7 +16,8 @@
     
 
 二：动态切换数据库
-
+  https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png
+    
 三：对关键字的处理
     
     1.数据库字段中有Java语言的关键字
