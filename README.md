@@ -8,6 +8,7 @@
     2.config-info配置信息模块
     
     3.cook模块
+    ![Alt text](https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png)
     https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png
     
     4.
