@@ -1,0 +1,18 @@
+spring:
+  application:
+    name: config-info #应用名称
+  # 数据库连接配置
+  datasource:
+    url: jdbc:mysql://192.168.113.116:3306/you_info?characterEncoding=UTF-8&useSSL=false
+    username: zjmax
+    password: zjmax.com
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database: mysql
+    show-sql: true
+    generate-ddl: false
+  profiles:
+    active: dev
+server:
+  servlet:
+    context-path: /aiyoumi
