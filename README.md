@@ -1,6 +1,6 @@
 # Aiumi
 对SpringBoot的学习使用，一一记录下来
-  ![Alt text](https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png)
+ 
 一：分模块创建
 
     1.common模块
@@ -8,15 +8,15 @@
     2.config-info配置信息模块
     
     3.cook模块
-    ![Alt text](https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png)
-    https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png
-    
+   
+   ![Alt text](https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png)
+   
     4.
 
     
 
 二：动态切换数据库
-  https://github.com/dingpengqiang/Aiumi/blob/master/cook/cook.png
+
     
 三：对关键字的处理
     
