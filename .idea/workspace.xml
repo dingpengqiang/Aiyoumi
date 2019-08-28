@@ -2,62 +2,47 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ce4f32c-4b4e-4699-b23d-8acd7cc37308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/common/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/noway/common/CommonApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/test/java/com/noway/common/CommonApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/ConfigInfoApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/src/test/java/com/noway/configinfo/ConfigInfoApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/CookApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/test/java/com/noway/cook/CookApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/src/main/java/com/noway/corecourse/CoreCourseApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/src/main/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/core-course/src/test/java/com/noway/corecourse/CoreCourseApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/src/main/java/com/noway/game/GameApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/game/src/test/java/com/noway/game/GameApplicationTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/.mvn/wrapper/MavenWrapperDownloader.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/.mvn/wrapper/maven-wrapper.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/mvnw" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/mvnw.cmd" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/src/main/java/com/noway/wiki/WikiApplication.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wiki/src/test/java/com/noway/wiki/WikiApplicationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/noway/common/enums/EnumCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/entry/Banner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/repository/BannerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlDataSourceConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlPrimaryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlSecondaryConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/Swagger2Config.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookDetailController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookListController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookMainController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/entry/CookMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/primary/Cook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Banner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Option.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookDetailRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookListRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookBannerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookOptionRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config-info/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-info/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cook/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cook/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/CookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/CookApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cook/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cook/src/main/resources/application-dev.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cook/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cook/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/game/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wiki/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -79,46 +64,29 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
+        <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookDetailRepository.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="134">
-              <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/pom.xml">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="246">
-              <caret line="20" selection-start-line="20" selection-end-line="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/utils/ResultUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="177">
-              <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+            <state relative-caret-position="435">
+              <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
               <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
+                <element signature="e#0#45#1" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-course/src/main/resources/application-dev.yml">
+        <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookDetailController.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+            <state relative-caret-position="680">
+              <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-course/src/main/resources/application-prod.yml">
+        <entry file="file://$PROJECT_DIR$/cook/src/main/resources/application-dev.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="15">
               <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
@@ -128,36 +96,60 @@
       </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cook/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/game/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/wiki/src/main/resources/application.yml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="255">
-                <caret line="17" selection-start-line="17" selection-end-line="17" />
-              </first_editor>
-              <second_editor />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/core-course/src/main/resources/application.yml">
+        <entry file="file://$PROJECT_DIR$/common/src/main/resources/application.properties">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-info/pom.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config-info/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
+            <state relative-caret-position="255">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/game/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/wiki/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/utils/ResultUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#437#438#0" expanded="true" />
+                <element signature="e#473#474#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -167,6 +159,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -177,22 +170,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/README.md" />
-        <option value="$PROJECT_DIR$/core-course/pom.xml" />
-        <option value="$PROJECT_DIR$/config-info/src/main/resources/application.yml" />
-        <option value="$PROJECT_DIR$/config-info/pom.xml" />
-        <option value="$PROJECT_DIR$/config-info/src/main/resources/application-dev.yml" />
-        <option value="$PROJECT_DIR$/config-info/src/main/resources/application-prod.yml" />
-        <option value="$PROJECT_DIR$/cook/pom.xml" />
         <option value="$PROJECT_DIR$/game/pom.xml" />
         <option value="$PROJECT_DIR$/wiki/pom.xml" />
         <option value="$PROJECT_DIR$/common/src/main/java/com/noway/common/entity/BaseResponse.java" />
-        <option value="$PROJECT_DIR$/common/src/main/java/com/noway/common/utils/ResultUtils.java" />
         <option value="$PROJECT_DIR$/core-course/src/main/resources/application.yml" />
         <option value="$PROJECT_DIR$/core-course/src/main/resources/application-dev.yml" />
         <option value="$PROJECT_DIR$/core-course/src/main/resources/application-prod.yml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/common/pom.xml" />
+        <option value="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/entry/Banner.java" />
+        <option value="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/repository/BannerRepository.java" />
+        <option value="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerService.java" />
+        <option value="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookMainCotroller.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/CookApplication.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/CookMainRepository.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlDataSourceConfig.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlSecondaryConfig.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlPrimaryConfig.java" />
+        <option value="$PROJECT_DIR$/cook/pom.xml" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Banner.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Option.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookMainRepository.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookBannerRepository.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/SwaggerConfig.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/Swagger2Config.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookOptionRepository.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/entry/CookType.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionService.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerService.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookMainController.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyExceptionHandler.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyException.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/primary/Cook.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListService.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookListRepository.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/noway/common/enums/EnumCode.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookListController.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailServiceImpl.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailService.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookDetailRepository.java" />
+        <option value="$PROJECT_DIR$/common/src/main/java/com/noway/common/utils/ResultUtils.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookDetailController.java" />
+        <option value="$PROJECT_DIR$/cook/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/config-info/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/game/src/main/resources/application.yml" />
+        <option value="$PROJECT_DIR$/wiki/src/main/resources/application.yml" />
       </list>
     </option>
   </component>
@@ -209,6 +237,7 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
     <option name="y" value="23" />
     <option name="width" value="1920" />
     <option name="height" value="977" />
@@ -229,7 +258,45 @@
             <path>
               <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
               <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
-              <item name="game" type="462c0819:PsiDirectoryNode" />
+              <item name="cook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
+              <item name="cook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
+              <item name="cook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
+              <item name="cook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
+              <item name="cook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="cook" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
+              <item name="cook" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -247,21 +314,30 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/wiki/src/main/resources" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.noway.common.exception" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.noway.cook.service" />
+      <recent name="com.noway.cook.repository.primary" />
+      <recent name="com.noway.cook.controller" />
+      <recent name="com.noway.cook.repository.secondary" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model" />
+      <recent name="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config" />
       <recent name="$PROJECT_DIR$/wiki/src/main/resources" />
       <recent name="$PROJECT_DIR$/game/src/main/resources" />
       <recent name="$PROJECT_DIR$/cook/src/main/resources" />
-      <recent name="$PROJECT_DIR$/config-info/src/main/resources" />
-      <recent name="$PROJECT_DIR$/core-course/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -276,7 +352,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigInfoApplication">
+  <component name="RunManager" selected="Spring Boot.CookApplication">
     <configuration name="CommonApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="common" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.noway.common.CommonApplication" />
@@ -331,7 +407,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566956119415</updated>
       <workItem from="1566956133433" duration="45000" />
-      <workItem from="1566956350545" duration="3564000" />
+      <workItem from="1566956350545" duration="24784000" />
     </task>
     <task id="LOCAL-00001" summary="首次上传：创建父模块">
       <created>1566956530142</created>
@@ -347,14 +423,22 @@
       <option name="project" value="LOCAL" />
       <updated>1566960057261</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="配置多个子模块">
+      <created>1566960308053</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1566960308053</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3609000" />
+    <option name="totallyTimeSpent" value="24829000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1920" height="977" extended-state="0" />
+    <frame x="-1" y="23" width="1920" height="977" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Web" side_tool="true" />
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25239617" />
@@ -362,13 +446,13 @@
       <window_info id="Designer" order="2" />
       <window_info id="UI Designer" order="3" />
       <window_info id="Favorites" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" visible="true" weight="0.32946634" />
+      <window_info anchor="bottom" id="Messages" weight="0.32946634" />
       <window_info anchor="bottom" id="Spring" />
       <window_info anchor="bottom" id="Java Enterprise" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32946634" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.7911833" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39907193" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
@@ -419,88 +503,28 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="首次上传：创建父模块" />
     <MESSAGE value="创建多个子模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="创建多个子模块" />
+    <MESSAGE value="配置多个子模块" />
+    <option name="LAST_COMMIT_MESSAGE" value="配置多个子模块" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerServiceImpl.java</url>
+          <line>21</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookDetailController.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" selection-start-line="23" selection-end-line="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/resources/application.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-info/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="39" selection-start-line="5" selection-start-column="6" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/cook/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/core-course/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="39" selection-start-line="5" selection-start-column="6" selection-end-line="7" selection-end-column="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wiki/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="22" column="30" selection-start-line="22" selection-start-column="30" selection-end-line="22" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/entity/BaseResponse.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="5" selection-start-line="10" selection-start-column="5" selection-end-line="10" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-info/src/main/resources/application-dev.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-info/src/main/resources/application-prod.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/config-info/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core-course/src/main/resources/application.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
@@ -529,32 +553,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cook/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/game/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/wiki/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="255">
-            <caret line="17" selection-start-line="17" selection-end-line="17" />
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="19" column="19" selection-start-line="19" selection-start-column="19" selection-end-line="19" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/common/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="246">
@@ -562,13 +560,410 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/utils/ResultUtils.java">
+    <entry file="file://$PROJECT_DIR$/game/.gitignore">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/repository/BannerRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="177">
-          <caret line="12" column="4" selection-start-line="12" selection-start-column="4" selection-end-line="12" selection-end-column="4" />
+        <state relative-caret-position="225">
+          <caret line="15" column="79" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="79" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="80" selection-start-line="12" selection-start-column="80" selection-end-line="12" selection-end-column="80" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="78" selection-start-line="21" selection-start-column="78" selection-end-line="21" selection-end-column="78" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="285">
+            <caret line="19" selection-start-line="19" selection-end-line="19" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/CookApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="52" selection-start-line="6" selection-start-column="52" selection-end-line="6" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlDataSourceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="29" column="66" selection-start-line="29" selection-start-column="57" selection-end-line="29" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlPrimaryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="290">
+          <caret line="52" column="41" selection-start-line="52" selection-start-column="41" selection-end-line="52" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlSecondaryConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="34" column="14" selection-start-line="34" selection-start-column="14" selection-end-line="34" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/entry/Banner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="34" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookMainRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="742">
+          <caret line="70" selection-start-line="70" selection-end-line="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookOptionRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="4" selection-end-line="16" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/entry/CookMain.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="21" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="25" selection-start-line="20" selection-start-column="25" selection-end-line="20" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#315#316#0" expanded="true" />
+            <element signature="e#342#343#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/Swagger2Config.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyExceptionHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="24" column="1" selection-start-line="24" selection-start-column="1" selection-end-line="24" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookBannerRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="79" selection-start-line="16" selection-start-column="3" selection-end-line="16" selection-end-column="79" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Banner.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="1" selection-start-line="33" selection-start-column="1" selection-end-line="33" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Option.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="24" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="25" selection-start-line="21" selection-start-column="25" selection-end-line="21" selection-end-column="25" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="5" selection-start-line="34" selection-start-column="5" selection-end-line="34" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookMainController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="22" column="10" selection-start-line="22" selection-start-column="10" selection-end-line="22" selection-end-column="10" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-commons/2.1.10.RELEASE/spring-data-commons-2.1.10.RELEASE.jar!/org/springframework/data/repository/CrudRepository.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="15" column="16" selection-start-line="15" selection-start-column="16" selection-end-line="15" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/enums/EnumCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookListRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookListController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="552">
+          <caret line="41" column="54" selection-start-line="41" selection-start-column="54" selection-end-line="41" selection-end-column="54" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#497#498#0" expanded="true" />
+            <element signature="e#543#544#0" expanded="true" />
+            <element signature="e#613#614#0" expanded="true" />
+            <element signature="e#641#642#0" expanded="true" />
+            <element signature="e#711#712#0" expanded="true" />
+            <element signature="e#739#740#0" expanded="true" />
+            <element signature="e#812#813#0" expanded="true" />
+            <element signature="e#840#841#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="7" selection-start-line="19" selection-start-column="7" selection-end-line="19" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/primary/Cook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookDetailRepository.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#45#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/utils/ResultUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#473#474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookDetailController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="680">
+          <caret line="115" column="35" selection-start-line="115" selection-start-column="35" selection-end-line="115" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="24" selection-start-line="23" selection-start-column="24" selection-end-line="23" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/src/main/resources/application.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-info/pom.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config-info/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/game/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/wiki/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
     </entry>
@@ -622,7 +1017,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>core-course</last-edited>
+          <last-edited>cook</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
