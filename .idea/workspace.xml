@@ -2,47 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3ce4f32c-4b4e-4699-b23d-8acd7cc37308" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/noway/common/enums/EnumCode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/common/src/main/java/com/noway/common/exception/MyExceptionHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/entry/Banner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/repository/BannerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config-info/src/main/java/com/noway/configinfo/service/BannerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlDataSourceConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlPrimaryConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/MysqlSecondaryConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config/Swagger2Config.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookDetailController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookListController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookMainController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/entry/CookMain.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/primary/Cook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Banner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model/secondary/Option.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookDetailRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookListRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookBannerRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/secondary/CookOptionRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookBannerServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookDetailServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookListServiceImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/service/CookOptionServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cook/cook.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/config-info/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/config-info/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cook/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cook/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/CookApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/CookApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cook/src/main/resources/application-dev.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cook/src/main/resources/application-dev.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cook/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cook/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/game/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/game/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wiki/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/wiki/src/main/resources/application.yml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -63,19 +24,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/repository/primary/CookDetailRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="36" column="67" lean-forward="true" selection-start-line="36" selection-start-column="67" selection-end-line="36" selection-end-column="67" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-                <element signature="e#0#45#1" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cook/src/main/java/com/noway/cook/controller/CookDetailController.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -131,7 +79,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/wiki/src/main/resources/application.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -141,17 +89,20 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/common/src/main/java/com/noway/common/utils/ResultUtils.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="21" column="27" selection-start-line="21" selection-start-column="23" selection-end-line="21" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#437#438#0" expanded="true" />
-                <element signature="e#473#474#0" expanded="true" />
-              </folding>
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+            <state split_layout="SPLIT">
+              <first_editor relative-caret-position="315">
+                <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+              </first_editor>
+              <second_editor />
             </state>
           </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/cook/cook.png">
+          <provider selected="true" editor-type-id="images" />
         </entry>
       </file>
     </leaf>
@@ -260,44 +211,6 @@
               <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
               <item name="cook" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
-              <item name="cook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
-              <item name="cook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
-              <item name="cook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
-              <item name="cook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="cook" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Aiumi" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Aiumi" type="462c0819:PsiDirectoryNode" />
-              <item name="cook" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="resources" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -314,7 +227,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cook" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -333,11 +246,11 @@
       <recent name="com.noway.cook.repository.secondary" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cook" />
       <recent name="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/model" />
       <recent name="$PROJECT_DIR$/cook/src/main/java/com/noway/cook/config" />
       <recent name="$PROJECT_DIR$/wiki/src/main/resources" />
       <recent name="$PROJECT_DIR$/game/src/main/resources" />
-      <recent name="$PROJECT_DIR$/cook/src/main/resources" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -407,7 +320,7 @@
       <option name="presentableId" value="Default" />
       <updated>1566956119415</updated>
       <workItem from="1566956133433" duration="45000" />
-      <workItem from="1566956350545" duration="24784000" />
+      <workItem from="1566956350545" duration="25584000" />
     </task>
     <task id="LOCAL-00001" summary="首次上传：创建父模块">
       <created>1566956530142</created>
@@ -430,11 +343,18 @@
       <option name="project" value="LOCAL" />
       <updated>1566960308053</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="完成厨房模块：&#10;1.动态配置数据库&#10;2.7个接口">
+      <created>1566986847117</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1566986847117</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="24829000" />
+    <option name="totallyTimeSpent" value="25629000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-1" y="23" width="1920" height="977" extended-state="0" />
@@ -504,7 +424,8 @@
     <MESSAGE value="首次上传：创建父模块" />
     <MESSAGE value="创建多个子模块" />
     <MESSAGE value="配置多个子模块" />
-    <option name="LAST_COMMIT_MESSAGE" value="配置多个子模块" />
+    <MESSAGE value="完成厨房模块：&#10;1.动态配置数据库&#10;2.7个接口" />
+    <option name="LAST_COMMIT_MESSAGE" value="完成厨房模块：&#10;1.动态配置数据库&#10;2.7个接口" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -525,13 +446,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/core-course/src/main/resources/application.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="53" selection-start-line="5" selection-start-column="53" selection-end-line="5" selection-end-column="53" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/core-course/src/main/resources/application-dev.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
@@ -590,16 +504,6 @@
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="285">
-            <caret line="19" selection-start-line="19" selection-end-line="19" />
-          </first_editor>
-          <second_editor />
         </state>
       </provider>
     </entry>
@@ -966,6 +870,19 @@
           <caret line="17" column="29" lean-forward="true" selection-start-line="17" selection-start-column="29" selection-end-line="17" selection-end-column="29" />
         </state>
       </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="315">
+            <caret line="21" lean-forward="true" selection-start-line="21" selection-end-line="21" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cook/cook.png">
+      <provider selected="true" editor-type-id="images" />
     </entry>
   </component>
   <component name="masterDetails">
