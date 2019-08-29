@@ -14,5 +14,11 @@ import java.util.List;
 public interface CookBannerRepository extends JpaRepository<Banner,Long> {
 
 
+    /**
+     * 根据以下参数查询相应的Banner
+     * @param endpoint
+     * @param position
+     * @return
+     */
     List<Banner> findAllByEndpointAndPosition(String endpoint,String position);
 }

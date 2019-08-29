@@ -8,10 +8,12 @@
         <outputRelativeToContentRoot value="true" />
         <module name="core-course" />
         <module name="wiki" />
+        <module name="eureka-server" />
         <module name="config-info" />
         <module name="common" />
         <module name="game" />
         <module name="cook" />
+        <module name="eureka-client" />
       </profile>
     </annotationProcessing>
   </component>
@@ -21,6 +23,8 @@
       <module name="config-info" options="-parameters" />
       <module name="cook" options="-parameters" />
       <module name="core-course" options="-parameters" />
+      <module name="eureka-client" options="-parameters" />
+      <module name="eureka-server" options="-parameters" />
       <module name="game" options="-parameters" />
       <module name="wiki" options="-parameters" />
     </option>

@@ -13,6 +13,12 @@ import java.util.List;
 @Repository
 public interface BannerRepository extends JpaRepository<Banner,Long> {
 
+    /**
+     * 根据以下参数查询对应的Banner
+     * @param endpoint
+     * @param position
+     * @return
+     */
     List<Banner> findAllByEndpointAndPosition(String endpoint,String position);
 
 }
